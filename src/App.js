@@ -6,6 +6,7 @@ import Index from './components/index'
 function App() {
   return (
     <main className= "container" >
+      
     <Index />
     </main>
   );
