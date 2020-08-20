@@ -6,7 +6,7 @@ class Footer extends Component {
             // <React.Fragment>
             //     <footer class="weather-channel__footer"><p>Powered by React</p></footer>
             // </React.Fragment>
-            <div>aa</div>
+            <div>aaaa</div>
          );
     }
 }
